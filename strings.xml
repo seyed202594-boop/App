@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">کدو بلو</string>
+    <string name="generate">ایجاد چالش</string>
+    <string name="enter_custom">موضوع دلخواه (اختیاری)</string>
+    <string name="history">سابقهٔ چالش‌ها</string>
+    <string name="share">اشتراک</string>
+</resources>

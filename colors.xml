@@ -1,0 +1,6 @@
+<resources>
+    <color name="purple_primary">#8E44AD</color>
+    <color name="purple_primary_variant">#6F2C88</color>
+    <color name="purple_on_primary">#FFFFFF</color>
+    <color name="background">#F6F3FB</color>
+</resources>
